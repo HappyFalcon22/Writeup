@@ -17,7 +17,7 @@ print(long_to_bytes(c))
 
 Kết quả in ra : `b'UElTQ1RGe1RoMXNfMXNfNF9tM3NTQGczX0ZyMG1fQ3JZcHQwfQ=='`
 
-Kết quả đang ở `base64`. Why ? Một dấu hiệu để nhận biết là cái padding `=` ở cuối
+Kết quả đang ở `base64` vì có một ký hiệu padding `=` ở cuối
 
 Vậy tiếp tục decode base64 thui :
 
@@ -34,7 +34,7 @@ Full solve : [Solve.py](https://github.com/HappyFalcon22/Writeup/blob/Master/PTI
 
 Theo mình cảm nhận là nó hơi guessy vì Tiktok gần đây lắc hông nhiều lắm :(
 
-Trước tiên, mình nhận được 1 ciphertext : ``
+Trước tiên, mình nhận được 1 ciphertext : `limh_xwd_oqkl_zndn_ieclithkqv`
 
 và source code [crypto2.py](https://github.com/HappyFalcon22/Writeup/blob/Master/PTITCTF2023/Crypto/Just%20For%20Fun/crypto2.py)
 
