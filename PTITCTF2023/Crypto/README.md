@@ -28,7 +28,7 @@ print(base64.b64decode(c))
 
 Thế là ra flag : `b'PISCTF{Th1s_1s_4_m3sS@g3_Fr0m_CrYpt0}'`
 
-Full solve : [Solve.py](Easy Crypto/Solve.py)
+Full solve : [Solve.py](https://github.com/HappyFalcon22/Writeup/blob/Master/PTITCTF2023/Crypto/Easy%20Crypto/Solve.py)
 
 ## Just for fun
 
