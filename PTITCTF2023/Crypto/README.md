@@ -4,7 +4,7 @@ CTF lần này có 2 Crypto, ***Easy Crypto*** và ***Just for fun***
 
 ## Easy Crypto
 
-Challenge cho mình một file [EzCrypto.txt](Easy Crypto/EzCrypto.txt), mở file ra thì mình nhần được một con số : 
+Challenge cho mình một file [txt](Crypto/Easy Crypto/EzCrypto.txt), mở file ra thì mình nhần được một con số : 
 
 ```56369025297691660392004556373781623445966955195801799383478576454199136227591253023415024495794577295554691617060609433091389```
 
