@@ -4,7 +4,7 @@ CTF lần này có 2 Crypto, ***Easy Crypto*** và ***Just for fun***
 
 ## Easy Crypto
 
-Challenge cho mình một file `EzCrypto.txt`, mở file ra thì mình nhần được một con số : 
+Challenge cho mình một file [EzCrypto.txt](Easy Crypto/EzCrypto.txt), mở file ra thì mình nhần được một con số : 
 
 ```56369025297691660392004556373781623445966955195801799383478576454199136227591253023415024495794577295554691617060609433091389```
 
@@ -27,6 +27,8 @@ print(base64.b64decode(c))
 ```
 
 Thế là ra flag : `b'PISCTF{Th1s_1s_4_m3sS@g3_Fr0m_CrYpt0}'`
+
+Full solve : [Solve.py](Easy Crypto/Solve.py)
 
 ## Just for fun
 
