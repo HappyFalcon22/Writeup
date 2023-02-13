@@ -48,7 +48,7 @@ Oke, hơi bí rồi thì bỗng nhớ lại cái description :
 
 Không biết đây có phải là intended solution không nhưng mình nghĩ tới MONO với cái điệu lắc hông hôm LIVE Waiting For You đầu tiên. Nên mình cũng thử với cái ciphertext này xem sao : mình nhìn vào 1 đoạn của ciphertext : `zndn`, khá có khả năng là `mono`, thế thử thì nó ra :
 
-`limk_xwn_oqkk_mono_ieclithkqv`
+`limk_xwn_oqkl_mono_ieclithkqv`
 
 Cùng lúc đó mình chợt nhớ tới loại của cipher này : ***monoalphabetic cipher***, vì vậy, trước khi mình quăng đống ciphertext này vào Cryptogram Solver thì mình xem thử xem cái đoạn `ieclithkqv` có đúng là từ `alphabetic` hay không, 2 chữ `i` của ciphertext này đặt đúng chỗ, và các chữ còn lại của ciphertext và `alphabetic` đều khác nhau. Hợp lý, mình thay vào thử thì được : 
 
